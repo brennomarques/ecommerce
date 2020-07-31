@@ -1,10 +1,22 @@
 # Projeto E-commerce
-## framework slim, para rotas
-## Rain para temple
-## Phpmailer para E-mail
+
+## Utilizar 
+````
+framework slim, para rotas
+````
+````
+Rain para temple
+````
+````
+Phpmailer para E-mail
+````
 
 # Install
-## composer update
+```
+composer update
+```
 
 # execução 
-## localhost
+```
+localhost
+```
